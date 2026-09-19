@@ -30,7 +30,6 @@ public class MainCongNhan
 			switch(chon)
 			{
 				case 1:
-					
 					ds.NhapCongNhan(sc);
 					break;
 				case 2:
